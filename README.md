@@ -16,5 +16,5 @@ Collection of raw data, extraction of relevant features, and storing them in a d
 Random Forest and SVM. Fraud detection algorithms were developed and integrated into a web application made using Flask, which included a UI for checking whether a website is fraudulent or legitimate.
 
 # OUTPUT OF THE TASK 3
-![OUTPUT](https://github.com/user-attachments/assets/f8059e3e-f5ed-4c90-b34d-69ced4e79d0c)
+![Output](https://github.com/user-attachments/assets/ba2fbde6-d418-4ab2-bbfa-d9d53d4e8f3c)
 ![Output](https://github.com/user-attachments/assets/bcbb4cc3-55a6-40a6-90ee-9aa8bdc64cb0)
