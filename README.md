@@ -17,5 +17,4 @@ Random Forest and SVM. Fraud detection algorithms were developed and integrated 
 
 # OUTPUT OF THE TASK 3
 ![OUTPUT](https://github.com/user-attachments/assets/f8059e3e-f5ed-4c90-b34d-69ced4e79d0c)
-![OUTPUT](https://github.com/user-attachments/assets/2ef946d2-6759-41fa-97df-075cd7847ea3)
-![OUTPUT](https://github.com/user-attachments/assets/54b92e5e-97fa-4a02-a0a3-73100621415c)
+![Output](https://github.com/user-attachments/assets/bcbb4cc3-55a6-40a6-90ee-9aa8bdc64cb0)
